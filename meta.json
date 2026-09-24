@@ -1,0 +1,23 @@
+{
+  "repo": "designwizard-unlimited",
+  "product": "DesignWizard Unlimited",
+  "kind": "creative",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "photo-editing",
+  "topics": [
+    "designwizard-unlimited",
+    "designwizard-windows",
+    "photo-editing-desktop",
+    "how-to-install-designwizard",
+    "designwizard-unlimited-desktop-package",
+    "designwizard-workspace",
+    "designwizard-unlimited-pro-tools",
+    "designwizard-suite",
+    "zentool-designwizard",
+    "designwizard-unlimited-tool-9"
+  ],
+  "site": "zentool.art"
+}
